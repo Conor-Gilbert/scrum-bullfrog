@@ -1,14 +1,10 @@
 [Home](https://mhoughton-iw.github.io/scrum-axolotl/)  
 
-[Anatomy](https://mhoughton-iw.github.io/scrum-axolotl/atonomy)  
-
-[Diet Info](https://mhoughton-iw.github.io/scrum-axolotl/dietinfo)  
-
-[Images](https://mhoughton-iw.github.io/scrum-axolotl/images)
+[Dietary habits](https://mhoughton-iw.github.io/scrum-axolotl/diataryHabits)  
 
 [Contact](https://mhoughton-iw.github.io/scrum-axolotl/contact)  
 
-[Interesting Facts](https://mhoughton-iw.github.io/scrum-axolotl/interesting-facts) 
+[about](https://mhoughton-iw.github.io/scrum-axolotl/about)
 
 ---
 
